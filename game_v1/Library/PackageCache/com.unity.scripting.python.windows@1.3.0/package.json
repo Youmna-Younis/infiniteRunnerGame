@@ -1,0 +1,20 @@
+{
+  "name": "com.unity.scripting.python.windows",
+  "displayName": "Python Scripting Windows Binaries",
+  "version": "1.3.0",
+  "dependencies": {},
+  "unity": "2020.3",
+  "description": "This package supports the com.unity.scripting.python package and isn't intended for use directly by other packages. This package includes the platform-specific binaries needed to run Python on your machine. Python binaries version: 3.10.6",
+  "_upm": {
+    "changelog": "CHANGES\n* Fix macOS python 3.10 binaries missing arm64 support"
+  },
+  "upmCi": {
+    "footprint": "1d85389fd5a35b9233fcd0a815673031964fb515"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.scripting.python.windows@1.3/manual/index.html",
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.scripting.python.git",
+    "type": "git",
+    "revision": "b7d59fd7e02d6a935e39d08050bf4d7550a89970"
+  }
+}
